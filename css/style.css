@@ -3320,7 +3320,7 @@ section.parallax-section .bg {
 .piechart {
     position: relative;
 	float:left;
-	width:100%;
+	width:50%;
 	margin-bottom:10px;
 }
 .percent {
@@ -5473,4 +5473,8 @@ section.parallax-section .bg {
 		-webkit-background-size: cover;
 		background-position: center;
 	}
+}
+.skill-heading{
+	font-family: 'Oswald';
+	text-decoration-line: underline;
 }
